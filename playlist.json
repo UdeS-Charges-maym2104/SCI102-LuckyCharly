@@ -8,11 +8,17 @@
 			"année": 2001,
 			"url": "https://www.youtube.com/watch?v=KScEW5a_KGY"
 		},
-		{ 
+		{
 			"titre": "Milord",
 			"artiste": "Edith Piaf",
 			"année": 1959,
 			"url": "https://www.youtube.com/watch?v=GZR8QCmWmwM"
 		},
+		{
+			"titre": "99.974℃",
+			"artiste": "tricot",
+			"année": 2013,
+			"url": "https://www.youtube.com/watch?v=1zez30Rj82g"
+		}
 	]
 }
