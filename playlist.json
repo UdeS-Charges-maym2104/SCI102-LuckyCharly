@@ -1,7 +1,7 @@
 "_comment" : "entrez vos chansons preferees dans la liste ci-dessous. Suivez les premieres entrees comme exemple"
 {
 	"playlist": [
-		{ 
+		{
 			"titre": "Citizen Erased",
 			"artiste": "Muse",
 			"album": "Origin of Symetry",
@@ -19,6 +19,11 @@
 			"artiste": "tricot",
 			"année": 2013,
 			"url": "https://www.youtube.com/watch?v=1zez30Rj82g"
-		}
+		},
+			"titre": "Somewhere only we know",
+			"artiste": "Keane",
+			"année": 2010,
+			"url": "https://www.youtube.com/watch?v=Oextk-If8HQ"
+		},
 	]
 }
